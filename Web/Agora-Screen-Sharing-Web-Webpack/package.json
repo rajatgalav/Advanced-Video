@@ -17,7 +17,7 @@
     "lint-fix": "eslint --fix src/ "
   },
   "dependencies": {
-    "agora-rtc-sdk": "3.0.0",
+    "agora-rtc-sdk": "3.4.0",
     "jquery": "^3.4.1",
     "materialize-css": "^1.0.0",
     "ua-parser-js": "^0.7.20"
